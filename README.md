@@ -1,2 +1,2 @@
 # ToContainer
-SCript for automatic creation of Container class
+Script for automatic creation of Container class
